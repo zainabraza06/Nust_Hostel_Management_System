@@ -83,7 +83,7 @@ HMS/
 4. **Access the App**
 
    * Visit `http://localhost:8080`
-   * Use seeded users or register as a hostelite
+   * Use seeded users 
 
 ---
 
