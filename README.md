@@ -1,8 +1,4 @@
-Here's a professional and comprehensive `README.md` file for your **Hostel Management System** GitHub repository:
 
----
-
-```markdown
 # 🏠 Hostel Management System (HMS)
 
 A full-stack web application developed to streamline hostel operations like mess off requests, leave requests, and room cleaning management for internal hostelites at NUST.
@@ -69,7 +65,7 @@ HMS/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/hostel-management-system.git
+   git clone https://github.com/zainabraza06/Nust_Hostel_Management_System.git
    cd hostel-management-system
 ````
 
